@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ConsoleGuessNumber
 {
@@ -21,17 +21,19 @@ namespace ConsoleGuessNumber
 				int answer;
 				//Contador de intentos
 				int i = 0;
-				ConsoleKeyInfo esc;
 				do
 				{
-					//Console.ReadLine toma un string, por eso se debe parsear
 					try
 					{
 						answer = Int32.Parse(Console.ReadLine());
+						if( answer > 100 || answer < 1 ) 
+						{
+                            Console.WriteLine("Por favor, ingrese un número entre 1 y 100");
+							answer = Int32.Parse(Console.ReadLine());
+						}
                     }
 					catch (FormatException error) //Formato erróneo
 					{
-
 						Console.WriteLine("Por favor, ingrese solamente números...");
 						answer = Int32.Parse(Console.ReadLine());
 					}
@@ -75,9 +77,9 @@ namespace ConsoleGuessNumber
 				if(continueGame != "Y")
 				{
 					game = false;
-                    Console.WriteLine("¡Gracias por jugar! Hasta la próxima...");
-                }
-            }
+                    			Console.WriteLine("¡Gracias por jugar! Hasta la próxima...");
+                		}
+            		}
 		}
 	}
 }
