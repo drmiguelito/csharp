@@ -1,0 +1,7 @@
+C:\Users\Gongolitos\Desktop\CODING\CODING LAB\Csharp\ConsoleGuessNumber\bin\Debug\ConsoleGuessNumber.exe.config
+C:\Users\Gongolitos\Desktop\CODING\CODING LAB\Csharp\ConsoleGuessNumber\bin\Debug\ConsoleGuessNumber.exe
+C:\Users\Gongolitos\Desktop\CODING\CODING LAB\Csharp\ConsoleGuessNumber\bin\Debug\ConsoleGuessNumber.pdb
+C:\Users\Gongolitos\Desktop\CODING\CODING LAB\Csharp\ConsoleGuessNumber\obj\Debug\ConsoleGuessNumber.csproj.AssemblyReference.cache
+C:\Users\Gongolitos\Desktop\CODING\CODING LAB\Csharp\ConsoleGuessNumber\obj\Debug\ConsoleGuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\Gongolitos\Desktop\CODING\CODING LAB\Csharp\ConsoleGuessNumber\obj\Debug\ConsoleGuessNumber.exe
+C:\Users\Gongolitos\Desktop\CODING\CODING LAB\Csharp\ConsoleGuessNumber\obj\Debug\ConsoleGuessNumber.pdb
