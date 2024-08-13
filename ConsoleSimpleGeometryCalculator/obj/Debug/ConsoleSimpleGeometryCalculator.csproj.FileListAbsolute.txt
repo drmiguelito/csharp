@@ -1,0 +1,7 @@
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleSimpleGeometryCalculator\bin\Debug\ConsoleSimpleGeometryCalculator.exe.config
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleSimpleGeometryCalculator\bin\Debug\ConsoleSimpleGeometryCalculator.exe
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleSimpleGeometryCalculator\bin\Debug\ConsoleSimpleGeometryCalculator.pdb
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleSimpleGeometryCalculator\obj\Debug\ConsoleSimpleGeometryCalculator.csproj.AssemblyReference.cache
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleSimpleGeometryCalculator\obj\Debug\ConsoleSimpleGeometryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleSimpleGeometryCalculator\obj\Debug\ConsoleSimpleGeometryCalculator.exe
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleSimpleGeometryCalculator\obj\Debug\ConsoleSimpleGeometryCalculator.pdb
