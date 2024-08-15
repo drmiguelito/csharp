@@ -2,7 +2,7 @@ using System;
 
 namespace ConsoleUnitConverter
 {
-	internal class Program
+	class Program
 	{
 		//Práctica 2021
 		//Monolibrería - monoclase - multimétodo static void
