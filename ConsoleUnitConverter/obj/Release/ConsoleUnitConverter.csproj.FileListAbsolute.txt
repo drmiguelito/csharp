@@ -1,0 +1,7 @@
+C:\Users\Gongolitos\Desktop\CODING\CODING LAB\Csharp\ConsoleUnitConverter\bin\Release\ConsoleUnitConverter.exe.config
+C:\Users\Gongolitos\Desktop\CODING\CODING LAB\Csharp\ConsoleUnitConverter\bin\Release\ConsoleUnitConverter.exe
+C:\Users\Gongolitos\Desktop\CODING\CODING LAB\Csharp\ConsoleUnitConverter\bin\Release\ConsoleUnitConverter.pdb
+C:\Users\Gongolitos\Desktop\CODING\CODING LAB\Csharp\ConsoleUnitConverter\obj\Release\ConsoleUnitConverter.csproj.AssemblyReference.cache
+C:\Users\Gongolitos\Desktop\CODING\CODING LAB\Csharp\ConsoleUnitConverter\obj\Release\ConsoleUnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\Gongolitos\Desktop\CODING\CODING LAB\Csharp\ConsoleUnitConverter\obj\Release\ConsoleUnitConverter.exe
+C:\Users\Gongolitos\Desktop\CODING\CODING LAB\Csharp\ConsoleUnitConverter\obj\Release\ConsoleUnitConverter.pdb
