@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ConsoleUnitConverter
 {
@@ -120,7 +120,7 @@ namespace ConsoleUnitConverter
 					else if (unitM2 == "oz") result = num * 224;
 				}
 				Console.WriteLine("\n--> Resultado: " + num + " " + unitM1 +
-					" a " + unitM2 + " = " + result + " " + unitM2 + "\n");
+					" a " + unitM2 + " = " + Math.Round(result, 2) + " " + unitM2 + "\n");
 
 				//Final
 				Console.WriteLine("¿Desea realizar un nuevo pasaje de MASA? S/N");
@@ -222,7 +222,7 @@ namespace ConsoleUnitConverter
 				}
 
 				Console.WriteLine("\n--> Resultado: " + num + " " + unitD1 +
-					" a " + unitD2 + " = " + result + " " + unitD2 + "\n");
+					" a " + unitD2 + " = " + Math.Round(result, 2) + " " + unitD2 + "\n");
 
 				Console.WriteLine("¿Desea realizar un nuevo pasaje de DISTANCIA? S/N");
 				string opcion = Console.ReadLine().ToUpper();
@@ -296,7 +296,7 @@ namespace ConsoleUnitConverter
 					else if (unitT2 == "°F") result = ((num - 273.15) * 1.8) + 32; //fahrenheit
 				}
 				Console.WriteLine("\n--> Resultado: " + num + " " + unitT1 +
-					" a " + unitT2 + " = " + result + " " + unitT2 + "\n");
+					" a " + unitT2 + " = " + Math.Round(result, 2) + " " + unitT2 + "\n");
 				Console.WriteLine("¿Desea realizar un nuevo pasaje de TEMPERATURA? S/N");
 				string opcion = Console.ReadLine().ToUpper();
 				if (opcion != "S") convT = false;
