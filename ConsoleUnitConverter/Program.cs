@@ -2,7 +2,7 @@ using System;
 
 namespace ConsoleUnitConverter
 {
-	class Program
+	internal class Program
 	{
 		//Práctica 2021
 		//Monolibrería - monoclase - multimétodo static void
@@ -80,7 +80,7 @@ namespace ConsoleUnitConverter
 				}
 
 				//Ingreso de valor numérico
-				Console.Write("*Ingrese valor numérico: ");
+				Console.Write("*Ingrese valor numérico (solo números y comas): ");
 				double num = Double.Parse(Console.ReadLine());
 				double result = 0;
 
@@ -169,7 +169,7 @@ namespace ConsoleUnitConverter
 					unitD2 = Console.ReadLine().ToUpper();
 				}
 				//Ingreso de valor numérico
-				Console.Write("*Ingrese valor numérico: ");
+				Console.Write("*Ingrese valor numérico (solo números y comas): ");
 				double num = Double.Parse(Console.ReadLine());
 				double result = 0;
 
@@ -267,7 +267,7 @@ namespace ConsoleUnitConverter
 					unitT2 = Console.ReadLine().ToUpper();
 				}
 				//Ingreso de valor numérico
-				Console.Write("*Ingrese valor numérico: ");
+				Console.Write("*Ingrese valor numérico (solo números y comas): ");
 				double num = Double.Parse(Console.ReadLine());
 				double result = 0;
 
