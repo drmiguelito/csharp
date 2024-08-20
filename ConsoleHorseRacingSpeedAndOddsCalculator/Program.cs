@@ -55,7 +55,6 @@ namespace ConsoleHorseRacingSpeedAndOddsCalculator
 				}
 			}
 		}
-
 		public static void SpeedCalc()
 		{
 			//Subtítulo
@@ -66,7 +65,7 @@ namespace ConsoleHorseRacingSpeedAndOddsCalculator
 			string lengthText = "";
 
 			//Variables de validación
-			string stringInput, stringToNumber ="", dot;
+			string stringInput, stringToNumber ="", dot =".";
 			bool isNumeric, containsDot;
 
 			//Campo distancia
@@ -80,7 +79,6 @@ namespace ConsoleHorseRacingSpeedAndOddsCalculator
 				isNumeric = Double.TryParse(stringInput, out distance);
 			}
 			//Estandarización a "," para parsearlo (en caso de que presente un ".")
-			dot = ".";
 			containsDot = stringInput.Contains(dot);
 			if (containsDot)
 			{
@@ -100,7 +98,6 @@ namespace ConsoleHorseRacingSpeedAndOddsCalculator
 				isNumeric = double.TryParse(stringInput, out time);
 			}
 			//Estandarización a "," para parsearlo (en caso de que presente un ".")
-			dot = ".";
 			containsDot = stringInput.Contains(dot);
 			if (containsDot)
 			{
