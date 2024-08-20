@@ -11,7 +11,6 @@ namespace ConsoleHorseRacingSpeedAndOddsCalculator
 	 */
 	internal class Program
 	{
-		public bool calculator;
 		static void Main(string[] args)
 		{
 			bool calculator = true;
