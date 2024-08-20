@@ -1,0 +1,7 @@
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleHorseRacingSpeedAndOddsCalculator\bin\Debug\ConsoleHorseRacingSpeedAndOddsCalculator.exe.config
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleHorseRacingSpeedAndOddsCalculator\bin\Debug\ConsoleHorseRacingSpeedAndOddsCalculator.exe
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleHorseRacingSpeedAndOddsCalculator\bin\Debug\ConsoleHorseRacingSpeedAndOddsCalculator.pdb
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleHorseRacingSpeedAndOddsCalculator\obj\Debug\ConsoleHorseRacingSpeedAndOddsCalculator.csproj.AssemblyReference.cache
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleHorseRacingSpeedAndOddsCalculator\obj\Debug\ConsoleHorseRacingSpeedAndOddsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleHorseRacingSpeedAndOddsCalculator\obj\Debug\ConsoleHorseRacingSpeedAndOddsCalculator.exe
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleHorseRacingSpeedAndOddsCalculator\obj\Debug\ConsoleHorseRacingSpeedAndOddsCalculator.pdb
