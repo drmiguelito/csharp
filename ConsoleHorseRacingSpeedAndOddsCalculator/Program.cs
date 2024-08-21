@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ConsoleHorseRacingSpeedAndOddsCalculator
 {
@@ -65,7 +65,7 @@ namespace ConsoleHorseRacingSpeedAndOddsCalculator
 			string lengthText = "";
 
 			//Variables de validación
-			string stringInput, stringToNumber ="", dot =".";
+			string stringInput, stringNumber ="", dot =".";
 			bool isNumeric, containsDot;
 
 			//Campo distancia
@@ -82,8 +82,8 @@ namespace ConsoleHorseRacingSpeedAndOddsCalculator
 			containsDot = stringInput.Contains(dot);
 			if (containsDot)
 			{
-				stringToNumber = stringInput.Replace(".", ",");
-				distance = Double.Parse(stringToNumber);
+				stringNumber = stringInput.Replace(".", ",");
+				distance = Double.Parse(stringNumber);
 			}
 			//Campo tiempo
 			Console.Write("Dist: {0} m. TIEMPO (segundos): ", distance);
@@ -101,8 +101,8 @@ namespace ConsoleHorseRacingSpeedAndOddsCalculator
 			containsDot = stringInput.Contains(dot);
 			if (containsDot)
 			{
-				stringToNumber = stringInput.Replace(".", ",");
-				time = Double.Parse(stringToNumber);
+				stringNumber = stringInput.Replace(".", ",");
+				time = Double.Parse(stringNumber);
 			}
 			//Cálculos
 			kmph = Math.Round((distance * 3.6) / time, 2);
@@ -189,7 +189,6 @@ namespace ConsoleHorseRacingSpeedAndOddsCalculator
 				wagerArray[i] = Double.Parse(stringNumberArray[i]);
 
 				//Estandarización a "," para parsearlo (en caso de que presente un ".")
-				dot = ".";
 				containsDot = stringNumberArray[i].Contains(dot);
 				if (containsDot)
 				{
