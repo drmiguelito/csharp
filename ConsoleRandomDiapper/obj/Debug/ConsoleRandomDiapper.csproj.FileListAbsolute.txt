@@ -1,0 +1,7 @@
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleRandomDiapper\bin\Debug\ConsoleRandomDiapper.exe.config
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleRandomDiapper\bin\Debug\ConsoleRandomDiapper.exe
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleRandomDiapper\bin\Debug\ConsoleRandomDiapper.pdb
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleRandomDiapper\obj\Debug\ConsoleRandomDiapper.csproj.AssemblyReference.cache
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleRandomDiapper\obj\Debug\ConsoleRandomDiapper.csproj.CoreCompileInputs.cache
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleRandomDiapper\obj\Debug\ConsoleRandomDiapper.exe
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleRandomDiapper\obj\Debug\ConsoleRandomDiapper.pdb
