@@ -3,7 +3,6 @@
  Práctica #7 año 2021
 Monoclase - multimétodo void - monolibrería
  */
-
 namespace ConsoleVeterinaryFluidoTherapyCalculator
 {
 	internal class Program
@@ -152,10 +151,7 @@ namespace ConsoleVeterinaryFluidoTherapyCalculator
 			}
 			//Estandarización del punto a coma
 			containsDot = stringInput.Contains(dot);
-			if (containsDot)
-			{
-				stringInput = stringInput.Replace(".", ",");
-			}
+			if (containsDot) stringInput = stringInput.Replace(".", ",");
 			//Parseo
 			num = Double.Parse(stringInput);
 		}
@@ -195,8 +191,7 @@ namespace ConsoleVeterinaryFluidoTherapyCalculator
 				if (exitProg != "S") calculator = false;
 				else Console.Clear();
 			}
-			else calculator = false;
-			
+			else calculator = false;			
 		}
 		//Métodos auxiliares
 		public void PreviousDeficitInfo()
