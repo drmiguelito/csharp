@@ -1,0 +1,7 @@
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleVeterinaryDoseCalculator\bin\Debug\ConsoleVeterinaryDoseCalculator.exe.config
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleVeterinaryDoseCalculator\bin\Debug\ConsoleVeterinaryDoseCalculator.exe
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleVeterinaryDoseCalculator\bin\Debug\ConsoleVeterinaryDoseCalculator.pdb
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleVeterinaryDoseCalculator\obj\Debug\ConsoleVeterinaryDoseCalculator.csproj.AssemblyReference.cache
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleVeterinaryDoseCalculator\obj\Debug\ConsoleVeterinaryDoseCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleVeterinaryDoseCalculator\obj\Debug\ConsoleVeterinaryDoseCalculator.exe
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleVeterinaryDoseCalculator\obj\Debug\ConsoleVeterinaryDoseCalculator.pdb
