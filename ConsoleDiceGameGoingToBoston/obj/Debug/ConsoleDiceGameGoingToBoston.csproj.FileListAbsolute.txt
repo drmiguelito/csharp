@@ -1,0 +1,7 @@
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleDiceGameGoingToBoston\bin\Debug\ConsoleDiceGameGoingToBoston.exe.config
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleDiceGameGoingToBoston\bin\Debug\ConsoleDiceGameGoingToBoston.exe
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleDiceGameGoingToBoston\bin\Debug\ConsoleDiceGameGoingToBoston.pdb
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleDiceGameGoingToBoston\obj\Debug\ConsoleDiceGameGoingToBoston.csproj.AssemblyReference.cache
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleDiceGameGoingToBoston\obj\Debug\ConsoleDiceGameGoingToBoston.csproj.CoreCompileInputs.cache
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleDiceGameGoingToBoston\obj\Debug\ConsoleDiceGameGoingToBoston.exe
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleDiceGameGoingToBoston\obj\Debug\ConsoleDiceGameGoingToBoston.pdb
