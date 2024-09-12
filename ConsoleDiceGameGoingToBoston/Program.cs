@@ -3,7 +3,8 @@
 	 * Programa Monoclase (sólo clase Program) - monolibrería
 	 * Juego de dados Going To Boston
 	 * Jugadores: 3 (para esta versión)
-	 */ 	internal class Program 
+	 */
+	 internal class Program 
 		{
 		 //Atributos: variables
 		 bool game = true;
