@@ -1,0 +1,7 @@
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleDiceGameBuck\obj\Debug\ConsoleDiceGameBuck.csproj.AssemblyReference.cache
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleDiceGameBuck\obj\Debug\ConsoleDiceGameBuck.csproj.CoreCompileInputs.cache
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleDiceGameBuck\bin\Debug\ConsoleDiceGameBuck.exe.config
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleDiceGameBuck\bin\Debug\ConsoleDiceGameBuck.exe
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleDiceGameBuck\bin\Debug\ConsoleDiceGameBuck.pdb
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleDiceGameBuck\obj\Debug\ConsoleDiceGameBuck.exe
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleDiceGameBuck\obj\Debug\ConsoleDiceGameBuck.pdb
