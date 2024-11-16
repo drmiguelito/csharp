@@ -1,0 +1,23 @@
+
+
+
+System.out.printl("¡¡¡Felíz cumpleaños!!!"); // Java
+
+echo "Happy birthday!!!!" // PHP
+
+console.log ("Happy birthday!!!!") //JavaScript
+
+prinf("Happy birthday")
+
+cout << "Felíz cumpleaños!!!!" << std::endl; // C++
+
+Console.WriteLine("Happy birthday!!!!"); // C#
+
+print("Happy birthday!!!!") #Python
+
+puts "Happy birthday!!!!!" // Ruby
+
+Console.WriteLine("Happy birthday!!!!") REM Visual Basic
+
+MsgBox "Felíz cumpleaños!!!" 'Visual Basic For Applications
+

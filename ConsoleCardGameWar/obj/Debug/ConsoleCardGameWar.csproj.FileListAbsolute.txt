@@ -1,0 +1,7 @@
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleCardGameWar\bin\Debug\ConsoleCardGameWar.exe.config
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleCardGameWar\bin\Debug\ConsoleCardGameWar.exe
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleCardGameWar\bin\Debug\ConsoleCardGameWar.pdb
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleCardGameWar\obj\Debug\ConsoleCardGameWar.csproj.AssemblyReference.cache
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleCardGameWar\obj\Debug\ConsoleCardGameWar.csproj.CoreCompileInputs.cache
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleCardGameWar\obj\Debug\ConsoleCardGameWar.exe
+C:\Users\Gongolitos\OneDrive\Escritorio\CODING\CODING LAB\Csharp\ConsoleCardGameWar\obj\Debug\ConsoleCardGameWar.pdb
