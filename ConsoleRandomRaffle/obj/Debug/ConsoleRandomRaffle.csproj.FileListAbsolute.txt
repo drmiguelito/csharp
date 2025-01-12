@@ -1,0 +1,7 @@
+C:\Users\Gongolitos\source\repos\ConsoleRandomShuffle\bin\Debug\ConsoleRandomShuffle.exe.config
+C:\Users\Gongolitos\source\repos\ConsoleRandomShuffle\bin\Debug\ConsoleRandomShuffle.exe
+C:\Users\Gongolitos\source\repos\ConsoleRandomShuffle\bin\Debug\ConsoleRandomShuffle.pdb
+C:\Users\Gongolitos\source\repos\ConsoleRandomShuffle\obj\Debug\ConsoleRandomRaffle.csproj.AssemblyReference.cache
+C:\Users\Gongolitos\source\repos\ConsoleRandomShuffle\obj\Debug\ConsoleRandomRaffle.csproj.CoreCompileInputs.cache
+C:\Users\Gongolitos\source\repos\ConsoleRandomShuffle\obj\Debug\ConsoleRandomShuffle.exe
+C:\Users\Gongolitos\source\repos\ConsoleRandomShuffle\obj\Debug\ConsoleRandomShuffle.pdb
